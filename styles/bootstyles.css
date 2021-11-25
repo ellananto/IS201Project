@@ -1,0 +1,50 @@
+<!--Ella Nanto November 25, 2021-->
+.right {
+    text-align: right;
+}
+
+.ellasfont {
+    font-family: sans-serif;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.bold {
+    font-weight:bolder;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h5 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.backgroundella {
+    background-image: url(https://res.cloudinary.com/jerrick/image/upload/v1620514836/60971814b0ed9f001e1e4a90.png)
+}
+
+.backgroundme {
+    background-image: url(../assets/images/aboutmebackground.jpg)
+}
+
+.backgroundresume {
+    background-image: url(../assets/images/brownie.jpg)
+}
+
+body {
+    justify-content: center;
+    display: inline;
+}
